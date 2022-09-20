@@ -1,0 +1,8 @@
+- LUAN SILVA DO CARMO
+- 👋 Olá a todos! Eu sou Luan Silva ==> (@luan-s1lva), Entusiasta em Desenvolvimento WEB
+- 👀 Estou interessado em diversos tópicos: Linux e customização, Desenvolvimento WEB, 
+- Desenvolvimento de Jogos, Internet das Coisas, Robótica, Inteligência Artificial e
+- vários outros. Acho que já dá pra entender que eu AMO TECNOLOGIA né?? ksk
+- 🌱 Atualmente estou estudando ReactJS e Laravel. Já fiz um ou dois projetinhos, se estiver interessado
+- aqui está meu Linkedin ==> https://www.linkedin.com/in/luan-silva-25303821a/
+- Estou cheio de vontade de provar minhas habilidades no mundo real!
