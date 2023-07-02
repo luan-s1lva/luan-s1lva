@@ -1,5 +1,9 @@
 ### Olá a todos! Meu nome é Luan Silva 😁
 
+![iron-man tech wallpaper](https://github.com/luan-s1lva/luan-s1lva/assets/107325426/d8f32b40-9752-4cfd-be23-a87b341ee042)
+
+## Meus contatos:
+
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](l.carmmo141@gmail.com) [![lINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-silva-25303821a/) [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luan-s1lva)
 
 ## Um pouco mais sobre mim:
