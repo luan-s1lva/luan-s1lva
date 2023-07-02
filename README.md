@@ -4,7 +4,7 @@
 
 ## Meus contatos:
 
-<a href="mailto:l.carmmo141@gmail.com">[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](l.carmmo141@gmail.com)</a>[![lINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-silva-25303821a/) [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luan-s1lva)
+<a href="mailto:l.carmmo141@gmail.com">[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](l.carmmo141@gmail.com)</a> [![lINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-silva-25303821a/) [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luan-s1lva)
 
 ## Um pouco mais sobre mim:
 Sou um desenvolvedor WEB Full-Stack focado em desenvolver novas soluções escaláveis e de qualidade. Adapto-me rapidamente ao ambiente em que estou inserido e estou sempre em busca de melhorar.
